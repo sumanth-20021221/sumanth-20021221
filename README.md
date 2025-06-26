@@ -51,12 +51,8 @@ Bridging the gap between **cutting-edge ML research** and **production systems**
 - 🌿 **Medicinal Herbs Identifier**  
   Streamlit app with ResNet50 & Gemini API for real-time herbal recognition
 
-- 🧠 **Graph-Based Question Answering**  
-  Using Neo4j and LLMs for complex, context-aware Q&A
-
-- 🔍 **RAG + Neo4j**  
-  Building hybrid knowledge engines with both vector + symbolic reasoning
-
+- 🧠 **Global Pulse**  
+  Using llm,rags, vector embedding building a news aggregator agent that summarizes news
 ---
 
 ## 📫 Let’s Connect
