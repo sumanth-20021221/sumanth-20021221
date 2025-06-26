@@ -14,16 +14,6 @@
 
 ---
 
-## 🌱 I’m Learning & Sharing
-
-- Recently published insights on:
-  - **Multimodal embeddings and semantic search** :contentReference[oaicite:2]{index=2}  
-  - **How Generative AI transformed my learning mindset** :contentReference[oaicite:3]{index=3}  
-  - **Prompt-engineering best practices** to avoid AI hallucinations :contentReference[oaicite:4]{index=4}  
-  - **Retrieval-Augmented Generation (RAG) frameworks for smarter NLP** :contentReference[oaicite:5]{index=5}
-
----
-
 ## 👨‍💻 Professional Interests
 
 - **Deep Learning** (PyTorch, ResNet, training automation)
@@ -55,7 +45,7 @@
 
 ## 💬 Quote I Live By
 
-> “Progress isn’t about avoiding risks—it’s about navigating them with eyes wide open.” — from an AI‑First post on DataLegos :contentReference[oaicite:6]{index=6}
+“Progress isn’t about avoiding risks—it’s about navigating them with eyes wide open.” 
 
 ---
 
